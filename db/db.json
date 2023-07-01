@@ -5,54 +5,32 @@
       "name": "Jalen Fellow",
       "email": "jalenfellow@aol.com",
       "message": "Great job, guys keep up the goodwork."
-    },
-    {
-      "name": "",
-      "email": "",
-      "message": "hhhh",
-      "id": 2
-    },
-    {
-      "email": "",
-      "message": "nnn",
-      "id": 3
     }
+ 
   ],
   "shop": [
     {
-      "name": "Meg",
-      "image": "horse",
-      "price": "25000",
-      "pic": ""
+      "name": "Meg"
+     
     },
     {
-      "name": "Living room set",
-      "image": "livingroom",
-      "price": "1100",
-      "pic": ""
+      "name": "Living room set"
     },
     {
-      "name": "Computer",
-      "image": "Gaming",
-      "price": "1500",
-      "pic": ""
+      "name": "Computer"
+  
+     
     },
     {
-      "name": "Shark",
-      "image": "Jaws",
-      "price": "20000",
-      "pic": ""
+      "name": "Shark"
+     
     },
     {
-      "name": "Tiger",
-      "image": "Bigcat",
-      "price": "45000",
-      "pic": ""
+      "name": "Tiger"
     },
     {
-      "name": "Vehicle",
-      "pic": "vehicle",
-      "price": "2000"
+      "name": "Vehicle"
+    
       
     }
   ]
