@@ -1,77 +1,47 @@
 {
   "posts": [
     {
-      "Fullname": "Jalen Fellow",
-      "Email": "jalenfellow@aol.com",
-      "Message": "Great job, guys keep up the goodwork."
-    },
-    {
-      "id": 2,
-      "Fullname": "Jalen Fellow",
-      "Email": "jalenfellow@aol.com",
-      "Message": "Great job, guys keep up the goodwork."
-    },
-    {
-      "Fullname": "Brandon",
-      "email": "brandonwall@gmail.com",
-      "message": "see you later",
-      "id": 3
-    },
-    {
-      "Fullname": "Brandon",
-      "email": "brandonwall@gmail.com",
-      "message": "see you later",
-      "id": 4
-    },
-    {
-      "Fullname": "Brandon",
-      "email": "brandonwall@gmail.com",
-      "message": "see you later",
-      "id": 5
-    },
-    {
-      "Fullname": "Brandon",
-      "email": "brandonwall@gmail.com",
-      "message": "see you later",
-      "id": 6
-    },
-    {
-      "Fullname": "",
-      "Email": "",
-      "Message": "hvcv",
-      "id": 7
+      "name": "Jalen Fellow",
+      "email": "jalenfellow@aol.com",
+      "message": "Great job, guys keep up the goodwork."
     }
   ],
   "shop": [
     {
       "name": "Meg",
       "image": "horse",
-      "price": "25000"
+      "price": "25000",
+      "pic":""
     },
     {
       "name": "Living room set",
       "image": "livingroom",
-      "price": "1100"
+      "price": "1100",
+      "pic":""
     },
     {
       "name": "Computer",
       "image": "Gaming",
-      "price": "1500"
+      "price": "1500",
+      "pic":""
     },
     {
       "name": "Shark",
       "image": "Jaws",
-      "price": "20000"
+      "price": "20000",
+      "pic": ""
     },
     {
       "name": "Tiger",
       "image": "Bigcat",
-      "price": "45000"
+      "price": "45000",
+      "pic": ""
     },
     {
       "name": "Vehicle",
       "image": "vehicle",
-      "price": "2000"
+      "price": "2000",
+      "pic":"https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
     }
   ]
 }
