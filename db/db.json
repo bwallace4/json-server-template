@@ -9,150 +9,95 @@
 
   ],
   "shop": [
+    { "name": "Hancock, John" },
+    { "name": " Hart, John" },
+    { "name": " Hooper, William"},
+    { "name": " Heyward Jr., Thomas" },
+    {  "name": "Hopkinson, Francis"  },
     {
-      "name": "Hancock, John"
-    },
+      "name": " Hewes, Joseph"},
     {
-      "name": " Hart, John"
-    },
+      "name": "Morris, Lewis"  },
     {
-      "name": " Hooper, William"
-    },
+      "name": "Hopkins, Stephen" },
     {
-      "name": " Heyward Jr., Thomas"
-    },
+      "name": "Jefferson, Thomas" },
     {
-      "name": "Hopkinson, Francis"
-    },
+      "name": "Lee, Francis Lightfoot"},
     {
-      "name": " Hewes, Joseph"
-    },
+      "name": "Middleton, Arthur"  },
     {
-      "name": "Morris, Lewis"
-    },
+      "name": "Lee, Richard Henry" },
     {
-      "name": "Hopkins, Stephen"
-    },
+      "name": "Morris, Robert" },
     {
-      "name": "Jefferson, Thomas"
-    },
+      "name": "Morton, John" },
     {
-      "name": "Lee, Francis Lightfoot"
-    },
+      "name": "Nelson Jr., Thomas" },
     {
-      "name": "Middleton, Arthur"   
-    },
+      "name": "Paca, William" },
     {
-      "name": "Lee, Richard Henry"
-    },
+      "name": "Livingston, Philip" },
     {
-      "name": "Morris, Robert"
-    },
+      "name": "Huntington, Samuel" },
     {
-      "name": "Morton, John"
-    },
+      "name": "Lewis, Francis"},
     {
-      "name": "Nelson Jr., Thomas"
-    },
+      "name": "Paine, Robert Treat" },
     {
-      "name": "Paca, William"
-    },
+      "name": "Penn, John" },
     {
-      "name": "Livingston, Philip"
-    },
+      "name": " Read, George" },
     {
-      "name": "Huntington, Samuel"
-    },
+      "name": "Rodney, Caesar" },
     {
-      "name": "Lewis, Francis"
-    },
+      "name": "Ross, George" },
     {
-      "name": "Paine, Robert Treat"
-    },
+      "name": "Rush, Benjamin Dr." },
     {
-      "name": "Penn, John"
-    },
+      "name": "Lynch Jr., Thomas" },
     {
-      "name": " Read, George"
-    },
+      "name": "Rutledge, Edward" },
     {
-      "name": "Rodney, Caesar"
-    },
+      "name": "Sherman, Roger" },
     {
-      "name": "Ross, George"
-    },
+      "name": "Smith, James" },
     {
-      "name": "Rush, Benjamin Dr."
-    },
+      "name": "Stockton, Richard" },
     {
-      "name": "Lynch Jr., Thomas"
-    },
+      "name": "Stone, Thomas" },
     {
-      "name": "Rutledge, Edward"
-    },
+      "name": "Taylor, George" },
     {
-      "name": "Sherman, Roger"
-    },
+      "name": "Thornton, Matthew" },
     {
-      "name": "Smith, James"
-    },
+      "name": "Harrison, Benjamin"},
     {
-      "name": "Stockton, Richard"
-    },
+      "name": "Hall, Lyman"},
     {
-      "name": "Stone, Thomas"
-    },
+      "name": " Gwinnett, Button" },
     {
-      "name": "Taylor, George"
-    },
+      "name": "Gerry, Elbridge" },
     {
-      "name": "Thornton, Matthew"
-    },
+      "name": "Franklin, Benjamin" },
     {
-      "name": "Vehicle"
-    },
+      "name": "Floyd, William" },
     {
-      "name": "Harrison, Benjamin"
-    },
+      "name": "Ellery, William"},
     {
-      "name": "Hall, Lyman"
-    },
+      "name": "Clark, Abraham"},
     {
-      "name": " Gwinnett, Button"
-    },
+      "name": "Chase, Samuel" },
     {
-      "name": "Gerry, Elbridge"
-    },
+      "name": "Carroll, Charles of Carrollton" },
     {
-      "name": "Franklin, Benjamin"
-    },
+      "name": "Braxton, Carter"},
     {
-      "name": "Floyd, William"
-    },
+      "name": "Bartlett, Josiah" },
     {
-      "name": "Ellery, William"
-    },
+      "name": "Adams, Samuel" },
     {
-      "name": "Clark, Abraham"
-    },
-    {
-      "name": "Chase, Samuel"
-    },
-    {
-      "name": "Carroll, Charles of Carrollton"
-    },
-    {
-      "name": "Braxton, Carter"
-    },
-    {
-      "name": "Bartlett, Josiah"
-    },
-    {
-      "name": "Adams, Samuel"
-    },
-    {
-      "name": "Adams, John"
-    },
+      "name": "Adams, John" },
     {
       "name": "Wythe, George" },
     {
