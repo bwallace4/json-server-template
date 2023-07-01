@@ -77,14 +77,6 @@
     },
     {
       "name": "Rodney, Caesar"
-
-      
-      
-      Smith, James
-      Stockton, Richard
-      Stone, Thomas
-      Taylor, George
-      Thornton, Matthew"
     },
     {
       "name": "Ross, George"
@@ -102,19 +94,19 @@
       "name": "Sherman, Roger"
     },
     {
-      "name": "Vehicle"
+      "name": "Smith, James"
     },
     {
-      "name": "Vehicle"
+      "name": "Stockton, Richard"
     },
     {
-      "name": "Vehicle"
+      "name": "Stone, Thomas"
     },
     {
-      "name": "Vehicle"
+      "name": "Taylor, George"
     },
     {
-      "name": "Vehicle"
+      "name": "Thornton, Matthew"
     },
     {
       "name": "Vehicle"
@@ -160,17 +152,22 @@
     },
     {
       "name": "Adams, John"
-    }
+    },
+    {
+      "name": "Wythe, George" },
+    {
+      "name": "Walton, George" },
+    {
+      "name": " Whipple, William"},
+    {
+      "name": "  Williams, William" },
+    {
+      "name": " Wilson, James"},
+    {
+      "name": " Witherspoon, John"},
+    {
+      "name": "Wolcott, Oliver"}
   ]
 }
 
 
-
-
-Walton, George
-Whipple, William
-Williams, William
-Wilson, James
-Witherspoon, John
-Wolcott, Oliver
-Wythe, George
