@@ -9,8 +9,8 @@
   ],
   "names": [
     {"name": "Hancock,John"},
-    { "name": "Hart,John"},
-    { "name": "Hooper,William"},
+    {"name": "Hart,John"},
+    {"name": "Hooper,William"},
     {"name": "Heyward Jr.,Thomas"},
     {"name": "Hopkinson,Francis"},
     {"name": "Hewes,Joseph"},
@@ -19,66 +19,26 @@
     {"name": "Jefferson,Thomas"},
     {"name": "Lee,Francis Lightfoot"},
     {"name": "Middleton,Arthur"},
-    {
-      "name": "Lee,Richard Henry"
-    },
-    {
-      "name": "Morris,Robert"
-    },
-    {
-      "name": "Morton,John"
-    },
-    {
-      "name": "Nelson Jr.,Thomas"
-    },
-    {
-      "name": "Paca,William"
-    },
-    {
-      "name": "Livingston,Philip"
-    },
-    {
-      "name": "Huntington,Samuel"
-    },
-    {
-      "name": "Lewis,Francis"
-    },
-    {
-      "name": "Paine,Robert Treat"
-    },
-    {
-      "name": "Penn,John"
-    },
-    {
-      "name": "Read,George"
-    },
-    {
-      "name": "Rodney,Caesar"
-    },
-    {
-      "name": "Ross,George"
-    },
-    {
-      "name": "Rush,Benjamin Dr."
-    },
-    {
-      "name": "Lynch Jr.,Thomas"
-    },
-    {
-      "name": "Rutledge,Edward"
-    },
-    {
-      "name": "Sherman,Roger"
-    },
-    {
-      "name": "Smith,James"
-    },
-    {
-      "name": "Stockton,Richard"
-    },
-    {
-      "name": "Stone,Thomas"
-    },
+    {"name": "Lee,Richard Henry"},
+    {"name": "Morris,Robert"},
+    {"name": "Morton,John"},
+    {"name": "Nelson Jr.,Thomas"},
+    {"name": "Paca,William"},
+    {"name": "Livingston,Philip"},
+    {"name": "Huntington,Samuel"},
+    {"name": "Lewis,Francis"},
+    {"name": "Paine,Robert Treat"},
+    {"name": "Penn,John"},
+    {"name": "Read,George"},
+    {"name": "Rodney,Caesar"},
+    {"name": "Ross,George"},
+    {"name": "Rush,Benjamin Dr."},
+    {"name": "Lynch Jr.,Thomas"},
+    {"name": "Rutledge,Edward"},
+    {"name": "Sherman,Roger"},
+    {"name": "Smith,James"},
+    {"name": "Stockton,Richard"},
+    {"name": "Stone,Thomas"},
     {
       "name": "Taylor,George"
     },
