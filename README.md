@@ -110,4 +110,4 @@ of the page, and selecting "Deploy latest commit."
 
 ## Deployment of Frontend
 https://github.com/bwallace4/Phase-2-project2.git
-The frontend and backend suppose to run simultaneously.
+The frontend and backend suppose to run simultaneously
