@@ -5,54 +5,20 @@
       "name": "Jalen Fellow",
       "email": "jalenfellow@aol.com",
       "message": "I will be grilling hotdogs, and hamburgers with my family."
-    },
-    {
-      "name": "Brandon Wallace",
-      "email": "brandonwallace403@gmail.com",
-      "message": "kkkk",
-      "id": 2
-    },
-    {
-      "name": "ddd",
-      "email": "khss@email.com",
-      "message": "kdkdk",
-      "id": 3
     }
   ],
   "names": [
-    {
-      "name": "Hancock,John"
-    },
-    {
-      "name": "Hart,John"
-    },
-    {
-      "name": "Hooper,William"
-    },
-    {
-      "name": "Heyward Jr.,Thomas"
-    },
-    {
-      "name": "Hopkinson,Francis"
-    },
-    {
-      "name": "Hewes,Joseph"
-    },
-    {
-      "name": "Morris,Lewis"
-    },
-    {
-      "name": "Hopkins,Stephen"
-    },
-    {
-      "name": "Jefferson,Thomas"
-    },
-    {
-      "name": "Lee,Francis Lightfoot"
-    },
-    {
-      "name": "Middleton,Arthur"
-    },
+    {"name": "Hancock,John"},
+    { "name": "Hart,John"},
+    { "name": "Hooper,William"},
+    {"name": "Heyward Jr.,Thomas"},
+    {"name": "Hopkinson,Francis"},
+    {"name": "Hewes,Joseph"},
+    {"name": "Morris,Lewis"},
+    {"name": "Hopkins,Stephen"},
+    {"name": "Jefferson,Thomas"},
+    {"name": "Lee,Francis Lightfoot"},
+    {"name": "Middleton,Arthur"},
     {
       "name": "Lee,Richard Henry"
     },
