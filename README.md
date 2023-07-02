@@ -1,4 +1,5 @@
 # JSON Server Template
+run npm start in the project directory
 
 ## Setup
 
